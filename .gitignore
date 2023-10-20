@@ -1,0 +1,16 @@
+
+Thumbs.db
+desktop.ini
+
+
+*.swp
+*.swo
+*.swn
+
+
+
+*.log
+*.cache
+
+ehthumbs.db
+ehthumbs_vista.db
